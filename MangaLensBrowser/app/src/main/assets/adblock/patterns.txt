@@ -1,0 +1,6 @@
+/popunder
+/pop-under
+/adserver/
+/adframe
+/ads/banner
+ad_frame
